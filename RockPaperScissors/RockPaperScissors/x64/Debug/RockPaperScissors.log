@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\mcgil\source\repos\RockPaperScissors\RockPaperScissors\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RockPaperScissors.vcxproj -> C:\Users\mcgil\source\repos\RockPaperScissors\x64\Debug\RockPaperScissors.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
